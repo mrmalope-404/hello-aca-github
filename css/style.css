@@ -17,3 +17,16 @@ hr {
 a {
   color: #2d6a4f;
 }
+button {
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.dark-mode {
+  background-color: #121212;
+  color: white;
+}
+
+.dark-mode a {
+  color: #4caf50;
+}
